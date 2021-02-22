@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab 5 paint job", "lab 5 paint job\lab 5 paint job.pyproj", "{76728F55-6FFB-4514-AC03-0800761CA81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76728F55-6FFB-4514-AC03-0800761CA81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76728F55-6FFB-4514-AC03-0800761CA81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC4D9D2A-7D24-4AB7-AC38-7275F53915E5}
+	EndGlobalSection
+EndGlobal
